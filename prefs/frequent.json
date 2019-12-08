@@ -1,43 +1,29 @@
 {
   "frequent": [
+
     {
-      "name": "nextcloud",
-      "url": "stormage.xyz",
-      "icon": "cloud-lightning"
+      "name": "Emby",
+      "url": "mavarice.ddns.net",
+      "icon": "film"
     },
     {
-      "name": "pi-hole",
-      "url": "192.168.86.254",
-      "icon": "x-octagon"
+      "name": "Netflix",
+      "url": "netflix.com",
+      "icon": "film"
     },
     {
-      "name": "0xhjohnson",
-      "url": "0xhjohnson.com",
-      "icon": "x"
+      "name": "Hulu",
+      "url": "hulu.com",
+      "icon": "film"
     },
     {
-      "name": "github",
-      "url": "github.com",
-      "icon": "github"
+      "name": "Disney",
+      "url": "disneyplus.com",
+      "icon": "film"
     },
     {
-      "name": "dev",
-      "url": "dev.to",
-      "icon": "code"
-    },
-    {
-      "name": "plex",
-      "url": "app.plex.tv",
-      "icon": "disc"
-    },
-    {
-      "name": "stack overflow",
-      "url": "stackoverflow.com",
-      "icon": "git-commit"
-    },
-    {
-      "name": "hangouts",
-      "url": "hangouts.google.com",
+      "name": "Messages",
+      "url": "messages.google.com",
       "icon": "message-circle"
     },
     {
@@ -46,19 +32,14 @@
       "icon": "heart"
     },
     {
-      "name": "vultr",
-      "url": "vultr.com",
-      "icon": "server"
+      "name": "YouTube",
+      "url": "Youtube.com",
+      "icon": "youtube"
     },
     {
-      "name": "twitter",
-      "url": "twitter.com",
-      "icon": "twitter"
-    },
-    {
-      "name": "figma",
-      "url": "figma.com",
-      "icon": "figma"
+      "name": "github",
+      "url": "github.com",
+      "icon": "github"
     }
   ]
 }
