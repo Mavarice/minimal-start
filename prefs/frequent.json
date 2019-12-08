@@ -1,6 +1,5 @@
 {
   "frequent": [
-
     {
       "name": "Emby",
       "url": "mavarice.ddns.net",
@@ -21,6 +20,21 @@
       "url": "disneyplus.com",
       "icon": "film"
     },
+	{
+      "name": "YouTube",
+      "url": "Youtube.com",
+      "icon": "youtube"
+    },
+	{
+      "name": "Amazon",
+      "url": "amazon.com",
+      "icon": "shopping-cart"
+    },
+	{
+      "name": "USAA",
+      "url": "usaa.com",
+      "icon": "dollar-sign"
+    },
     {
       "name": "Messages",
       "url": "messages.google.com",
@@ -30,11 +44,6 @@
       "name": "reddit",
       "url": "reddit.com",
       "icon": "heart"
-    },
-    {
-      "name": "YouTube",
-      "url": "Youtube.com",
-      "icon": "youtube"
     },
     {
       "name": "github",
